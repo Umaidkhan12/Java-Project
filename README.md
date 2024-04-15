@@ -1,8 +1,8 @@
 # Java-Project
 
 # Setup
-- Create DataBase name `calender`
-- Create Table name `calender` of column `ID`,`Title`,`Description`,`Date` and `Time` where `ID` is **AUTO_INCREMENT & Primary Key**
+- Create DataBase of name `calender`
+- Create Table of +name `calender` of column `ID`,`Title`,`Description`,`Date` and `Time` where `ID` is **AUTO_INCREMENT & Primary Key**
 
 # Image
 - **Preview Image Of Table**
